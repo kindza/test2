@@ -8,6 +8,8 @@ status_images = {'idle':'/Library/Application Support/Apple/iChat Icons/Feng Shu
 
 # test git 1
 
+# test git 2
+
 start_time = NSDate.date()
 
 class Timer(NSObject):
