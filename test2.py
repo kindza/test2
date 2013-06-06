@@ -6,6 +6,8 @@ from PyObjCTools import NibClassBuilder, AppHelper
 # poach one of the iSync internal images to get things rolling
 status_images = {'idle':'/Library/Application Support/Apple/iChat Icons/Feng Shui/Bonsai.gif'}
 
+# test git 1
+
 start_time = NSDate.date()
 
 class Timer(NSObject):
